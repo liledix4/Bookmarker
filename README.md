@@ -6,7 +6,7 @@ App for saving bookmarks offline, using Markdown files as "notepads". It's suppo
 
 Electron/Android apps work differently from a browser extension, but there are things in common.
 
-## Common
+### Common
 
 You can have various notepads. Every notepad is a Markdown file with one big list of notes. Every note can have hashtags, URLs and custom text. Additionally you can attach images and files to the notes. Everything is saved locally, there's no Internet connection required, unless you use specific online features like getting titles for YouTube videos.
 
